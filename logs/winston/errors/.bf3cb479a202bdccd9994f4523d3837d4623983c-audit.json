@@ -1,20 +1,25 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\.bf3cb479a202bdccd9994f4523d3837d4623983c-audit.json",
-  "files": [
-    {
-      "date": 1686845148649,
-      "name": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\error.log.2023-06-16-00",
-      "hash": "2611f6e578ac330dfeecf8c6333449e5e85150d6dd8102dad6252e8b8f1ee85c"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1686848653940,
-      "name": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\error.log.2023-06-16-01",
-      "hash": "3057ab5a7658e4fa727a117f95910e394bde433c79dbdd483d6e00fe0cdf8ee5"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\.bf3cb479a202bdccd9994f4523d3837d4623983c-audit.json",
+    "files": [
+        {
+            "date": 1686845148649,
+            "name": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\error.log.2023-06-16-00",
+            "hash": "2611f6e578ac330dfeecf8c6333449e5e85150d6dd8102dad6252e8b8f1ee85c"
+        },
+        {
+            "date": 1686848653940,
+            "name": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\error.log.2023-06-16-01",
+            "hash": "3057ab5a7658e4fa727a117f95910e394bde433c79dbdd483d6e00fe0cdf8ee5"
+        },
+        {
+            "date": 1686852663915,
+            "name": "E:\\AAA\\Programming hero 2\\Student-management-system\\logs\\winston\\errors\\error.log.2023-06-16-02",
+            "hash": "1be7c1b25f4ddf9f6d722a8bc31313f2e713e78e3a4c6671f2e6f69a761f36f9"
+        }
+    ],
+    "hashType": "sha256"
 }
